@@ -23,9 +23,9 @@
 
 ## 📝 Notes & Problem Logs
 
-- [Docker Permission Issues](./notes/docker-issues.md)
-- [Gazebo + Navigation Problems](./notes/gazebo-navigation-problems.md)
-- [ROS2 TF Tree Issues](./notes/tf-problems.md)
+- Docker Permission Issues
+- Gazebo + Navigation Problems  
+- ROS2 TF Tree Issues
 
 ## 🛠️ Tools & Environment
 - ROS 2 Humble
